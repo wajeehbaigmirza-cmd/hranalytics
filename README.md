@@ -113,7 +113,7 @@ Excel File   ──────►   Power BI Desktop  ───►  Power BI Da
 
 ![HR Analytics Dashboard](./dashboard_preview.png)
 
-[📄 View Full Dashboard PDF](./HR_Analytics_Dashboard.pdf)
+[📄 View Full Dashboard PDF](./HR%20Analytics%20Dashboard.pdf)
 
 ---
 
