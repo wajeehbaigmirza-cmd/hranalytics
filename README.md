@@ -26,8 +26,6 @@ The HR team needed a centralized dashboard to:
 📥 Source              ⚙️ Processing          📊 Visualization
 ──────────             ─────────────          ────────────────
 Excel File   ──────►   Power BI Desktop  ───►  Power BI Dashboard
-(HR Data)              (Data Modelling &        (4 Report Pages)
-                        DAX Measures)
 ```
 
 ---
@@ -127,17 +125,6 @@ Excel File   ──────►   Power BI Desktop  ───►  Power BI Da
 - Salary hike % is nearly equal across departments (~15%) — no significant compensation bias found
 - **61% of employees earn under $5K/month** — majority fall in the lowest salary slab
 
----
-
-## 🖥️ Other Dashboards
-
-> 📞 **All other dashboards are available on request. Feel free to reach out to schedule a call or Google Meet.**
-
----
-
-## ⚠️ Confidentiality Note
-
-This dashboard was built using an HR dataset. All employee information is either anonymized or from a sample dataset used for demonstration purposes.
 
 ---
 
